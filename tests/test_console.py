@@ -1,4 +1,4 @@
-mport console
+import console
 from console import HBNBCommand
 from contextlib import redirect_stdout
 import pep8
